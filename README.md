@@ -12,31 +12,31 @@ The project is designed as both a rendering experiment and a small vegetation fr
 
 A baseline meadow scene showing dense procedural vegetation, painted grass variety, flowers, terrain conformity, and the winding path layout.
 
-![Default Meadow](Images/normal-meadow.png)
+![Default Meadow](Documentation/Images/normal-meadow.png)
 
 ### Anime Meadow
 
 A stylised grass variant using more exaggerated blade shapes while keeping the same underlying GPU vegetation pipeline.
 
-![Anime Meadow](Images/anime-meadow.png)
+![Anime Meadow](Documentation/Images/anime-meadow.png)
 
 ### Curled Ribbons
 
 A more extreme procedural style demonstrating that the system is not limited to traditional grass blade geometry.
 
-![Curled Ribbons](Images/curled-ribbons.png)
+![Curled Ribbons](Documentation/Images/curled-ribbons.png)
 
 ### Reed Bed
 
 A specialised vegetation style using tall reed-like forms and a very different silhouette from the standard meadow grass.
 
-![Reed Bed](Images/reed-bed.png)
+![Reed Bed](Documentation/Images/reed-bed.png)
 
 ### LOD Visualizer
 
 Debug view used to inspect distance-based LOD regions, distribution, and large-scale vegetation behaviour.
 
-![LOD Visualizer](Images/lod-visualizer.png)
+![LOD Visualizer](Documentation/Images/lod-visualizer.png)
 
 ---
 
